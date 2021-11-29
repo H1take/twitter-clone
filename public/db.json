@@ -1,0 +1,92 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "_id": "5f625ff106bc4fd2a1e7bf710",
+      "text": "test tweet",
+      "user": {
+        "fullname": "test",
+        "username": "user",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?4"
+      }
+    },
+    {
+      "_id": "5r9ozcy7ovk",
+      "text": "fds",
+      "user": {
+        "fullname": "test",
+        "username": "user",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?4"
+      },
+      "id": 2
+    },
+    {
+      "_id": "ry7cag0m5y",
+      "text": "test 2",
+      "user": {
+        "fullname": "test",
+        "username": "user",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?4"
+      },
+      "id": 3
+    },
+    {
+      "_id": "tv5g31aeyob",
+      "text": "еуые\n",
+      "user": {
+        "fullname": "test",
+        "username": "user",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?4"
+      },
+      "id": 4
+    }
+  ],
+  "tags": [
+    {
+      "_id": "5f625ff106bc4fd2a1e7bf710",
+      "name": "HandOffRussianHistory",
+      "count": 12175
+    },
+    {
+      "_id": "5f625ff206bc4fda21e7bf710",
+      "name": "Навального",
+      "count": 442
+    },
+    {
+      "_id": "5f625ff406bc45f2da1e7bf710",
+      "name": "гитлер",
+      "count": 51321
+    },
+    {
+      "_id": "5f625f1f606b1c4fda1e7bf710",
+      "name": "Беларусь",
+      "count": 812812
+    }
+  ],
+  "users": [
+    {
+      "_id": "619962c0f684de6a038a6ccd",
+      "fullname": "Boyd Watts",
+      "username": "hunter",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?4"
+    },
+    {
+      "_id": "619962c024f48fdc39cd3f8a",
+      "fullname": "Ines Clayton",
+      "username": "huffman",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?4"
+    },
+    {
+      "_id": "619962c0acb4abe29c66f6c6",
+      "fullname": "Barnett Anthony",
+      "username": "prince",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+    }
+  ],
+  "user": {
+    "_id": "619962c0f684de6a038a6ccd",
+    "fullname": "Dmitriy Yakovlev",
+    "username": "caje",
+    "avatarUrl": "https://i.pinimg.com/236x/46/a7/1a/46a71a5faf354d671f72122fea65a0b3.jpg"
+  }
+}
